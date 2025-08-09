@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\dibak\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\ecommerce-backend\ecommerce-backend\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+3126586943.index
+1865797976.index
