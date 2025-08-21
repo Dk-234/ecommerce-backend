@@ -6,6 +6,12 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 
 @RestController
+    public class HomeController {
+    @GetMapping("/")
+    public String home() {
+        return "Backend is up!";
+    }
+}
 @RequestMapping("/auth")
 @CrossOrigin(origins = "*")
 public class AuthController {
